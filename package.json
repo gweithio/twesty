@@ -1,0 +1,16 @@
+{
+  "name": "stp",
+  "version": "0.1.0",
+  "description": "a simple quick tester thingy",
+  "author": "Ethan <ethan@gweithio.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ts-node tests/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {}
+}
